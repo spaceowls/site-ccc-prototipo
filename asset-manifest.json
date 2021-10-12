@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/site-ccc-prototipo/static/js/main.48bc93a9.chunk.js",
-    "main.js.map": "/site-ccc-prototipo/static/js/main.48bc93a9.chunk.js.map",
+    "main.js": "/site-ccc-prototipo/static/js/main.837e4f22.chunk.js",
+    "main.js.map": "/site-ccc-prototipo/static/js/main.837e4f22.chunk.js.map",
     "runtime-main.js": "/site-ccc-prototipo/static/js/runtime-main.6f86ea75.js",
     "runtime-main.js.map": "/site-ccc-prototipo/static/js/runtime-main.6f86ea75.js.map",
-    "static/js/2.b03e83b6.chunk.js": "/site-ccc-prototipo/static/js/2.b03e83b6.chunk.js",
-    "static/js/2.b03e83b6.chunk.js.map": "/site-ccc-prototipo/static/js/2.b03e83b6.chunk.js.map",
+    "static/js/2.17ef102d.chunk.js": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js",
+    "static/js/2.17ef102d.chunk.js.map": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js.map",
     "index.html": "/site-ccc-prototipo/index.html",
-    "static/js/2.b03e83b6.chunk.js.LICENSE.txt": "/site-ccc-prototipo/static/js/2.b03e83b6.chunk.js.LICENSE.txt",
+    "static/js/2.17ef102d.chunk.js.LICENSE.txt": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js.LICENSE.txt",
     "static/media/Lara.75636223.png": "/site-ccc-prototipo/static/media/Lara.75636223.png",
     "static/media/Titulo.a3927bff.svg": "/site-ccc-prototipo/static/media/Titulo.a3927bff.svg",
     "static/media/arrow-bottom.ae811970.svg": "/site-ccc-prototipo/static/media/arrow-bottom.ae811970.svg",
@@ -49,7 +49,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6f86ea75.js",
-    "static/js/2.b03e83b6.chunk.js",
-    "static/js/main.48bc93a9.chunk.js"
+    "static/js/2.17ef102d.chunk.js",
+    "static/js/main.837e4f22.chunk.js"
   ]
 }
