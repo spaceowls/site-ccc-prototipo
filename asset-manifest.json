@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/site-ccc-prototipo/static/js/main.837e4f22.chunk.js",
-    "main.js.map": "/site-ccc-prototipo/static/js/main.837e4f22.chunk.js.map",
+    "main.js": "/site-ccc-prototipo/static/js/main.192fa6f7.chunk.js",
+    "main.js.map": "/site-ccc-prototipo/static/js/main.192fa6f7.chunk.js.map",
     "runtime-main.js": "/site-ccc-prototipo/static/js/runtime-main.6f86ea75.js",
     "runtime-main.js.map": "/site-ccc-prototipo/static/js/runtime-main.6f86ea75.js.map",
-    "static/js/2.17ef102d.chunk.js": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js",
-    "static/js/2.17ef102d.chunk.js.map": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js.map",
+    "static/js/2.19b35f69.chunk.js": "/site-ccc-prototipo/static/js/2.19b35f69.chunk.js",
+    "static/js/2.19b35f69.chunk.js.map": "/site-ccc-prototipo/static/js/2.19b35f69.chunk.js.map",
     "index.html": "/site-ccc-prototipo/index.html",
-    "static/js/2.17ef102d.chunk.js.LICENSE.txt": "/site-ccc-prototipo/static/js/2.17ef102d.chunk.js.LICENSE.txt",
+    "static/js/2.19b35f69.chunk.js.LICENSE.txt": "/site-ccc-prototipo/static/js/2.19b35f69.chunk.js.LICENSE.txt",
     "static/media/Lara.75636223.png": "/site-ccc-prototipo/static/media/Lara.75636223.png",
     "static/media/Titulo.a3927bff.svg": "/site-ccc-prototipo/static/media/Titulo.a3927bff.svg",
     "static/media/arrow-bottom.ae811970.svg": "/site-ccc-prototipo/static/media/arrow-bottom.ae811970.svg",
@@ -37,9 +37,6 @@
     "static/media/road__map.bd7a08f0.svg": "/site-ccc-prototipo/static/media/road__map.bd7a08f0.svg",
     "static/media/shape1.bee83938.svg": "/site-ccc-prototipo/static/media/shape1.bee83938.svg",
     "static/media/shop.1f5791f6.svg": "/site-ccc-prototipo/static/media/shop.1f5791f6.svg",
-    "static/media/stars__azul.45d1975b.svg": "/site-ccc-prototipo/static/media/stars__azul.45d1975b.svg",
-    "static/media/stars__rosa.45a7d691.svg": "/site-ccc-prototipo/static/media/stars__rosa.45a7d691.svg",
-    "static/media/stars__verde.9d6d1b0d.svg": "/site-ccc-prototipo/static/media/stars__verde.9d6d1b0d.svg",
     "static/media/swordsDesktopIMG.137e161b.png": "/site-ccc-prototipo/static/media/swordsDesktopIMG.137e161b.png",
     "static/media/swordsIMG.7ad013e5.png": "/site-ccc-prototipo/static/media/swordsIMG.7ad013e5.png",
     "static/media/trofeu.1d48b7d7.svg": "/site-ccc-prototipo/static/media/trofeu.1d48b7d7.svg",
@@ -49,7 +46,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6f86ea75.js",
-    "static/js/2.17ef102d.chunk.js",
-    "static/js/main.837e4f22.chunk.js"
+    "static/js/2.19b35f69.chunk.js",
+    "static/js/main.192fa6f7.chunk.js"
   ]
 }
